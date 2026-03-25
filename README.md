@@ -8,7 +8,8 @@
 **Duration:** 9 months | 800+ hours coding practice
 
 ## Certificate
-![IIT Guwahati Certificate](iit-guwahati-cert-EICT2324.jpg)
+![IIT Guwahati Certificate]()[Advanced Certification in Full Stack Data Science & AI.pdf](https://github.com/user-attachments/files/26253475/Advanced.Certification.in.Full.Stack.Data.Science.AI.pdf)
+
 
 ## Key Achievements
 - **50+ real-world projects** completed (NYC Airbnb Analysis, EPL Match Prediction, HR Analytics Dashboard)
