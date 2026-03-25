@@ -8,7 +8,7 @@
 **Duration:** 9 months | 800+ hours coding practice
 
 ## Certificate
-![IIT Guwahati Certificate]()[Advanced Certification in Full Stack Data Science & AI.pdf](https://github.com/user-attachments/files/26253475/Advanced.Certification.in.Full.Stack.Data.Science.AI.pdf)
+![IIT Guwahati Certificate]()[Advanced Certification in Full Stack Data Science & AI.pdf](https://github.com/Siddharth8699/Advanced-Certification-Full-Stack-Data-Science-AI-/blob/main/Advanced%20Certification%20in%20Full%20Stack%20Data%20Science%20%26%20AI.pdf)
 
 
 ## Key Achievements
