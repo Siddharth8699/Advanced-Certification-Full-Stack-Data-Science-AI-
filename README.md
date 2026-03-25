@@ -19,7 +19,7 @@
 ## Featured Projects
 | Project | Tech Stack | GitHub |
 |---------|------------|--------|
-| NYC Airbnb Analysis | Python, SQL, Power BI | [Link](http://siddharth8699.github.io/) |
+| NYC Airbnb Analysis | Python, SQL, Power BI | [Link](https://github.com/Siddharth8699/Hotel_Booking_Analysis) |
 | EPL Match Prediction | Web Scraping, scikit-learn | [Link](https://github.com/Siddharth8699/web-Scraping-and-Prediction-Project) |
 | HR Analytics Dashboard | SQL, Power BI | [Link](https://github.com/Siddharth8699/HR-Dashboard-SQL-Power-Bi-Project) |
 
